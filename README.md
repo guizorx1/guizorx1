@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guizorx1&label=visitas&color=ff5a1f&style=for-the-badge" alt="Visitas ao perfil">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=guizorx1.guizorx1&left_text=visitas&left_color=%231a0306&right_color=%23ff5a1f" alt="Visitas ao perfil">
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:ff5a1f,45:8a0f14,100:1a0306" alt="">
